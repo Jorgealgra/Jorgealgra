@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=F4AC04&labelColor=black)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=F4AC04&labelColor=black)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tools>-<PostgreSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tools>-<PostgreSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -33,8 +34,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/<Tools>-<PostgreSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tools>-<PostgreSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tools>-<PostgreSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Tools>-<PostgreSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Tools>-<PostgreSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 ![Jorgealgra´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgealgra&show_icons=true&theme=vision-friendly-dark)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorgealgra&repo=Jorgealgra&theme=vision-friendly-dark)](https://github.com/Jorgealgra/Jorgealgra)
