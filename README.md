@@ -18,4 +18,10 @@ Here are some ideas to get you started:
 
 
 
-![Jorgealgra´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgealgra&show_icons=true&theme=radical)
+![Jorgealgra´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgealgra&show_icons=true&theme=vision-friendly-dark)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorgealgra&repo=Jorgealgra&theme=vision-friendly-dark)](https://github.com/Jorgealgra/Jorgealgra)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgealgra&layout=compact&theme=vision-friendly-dark)](https://github.com/Jorgealgra/Jorgealgra)
+
