@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <!--[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 -->
 
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=SQL&logoColor=white&color=FF8000&labelColor=black)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=python&logoColor=white&color=FF8000&labelColor=black)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tools>-<PostgreSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tools>-<PostgreSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tools>-<PostgreSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
