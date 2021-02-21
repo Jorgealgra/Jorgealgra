@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi Hola 你好 👋
+
+I'm Jorge from Spain, economist and data sciencist 
+I love macroeconomics, financial markets, technology , knowing new ..
+
+I'm currently learning Python ..
 
 <!--
 **Jorgealgra/Jorgealgra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +23,7 @@ Here are some ideas to get you started:
 <!--[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 -->
 
-![](https://img.shields.io/badge/<Tools>-<PostgreSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FF8000&labelColor=black)
+![](https://img.shields.io/badge/<Tools>-<PostgreSQL>-informational?style=flat&logo=Tools&logoColor=white&color=FF8000&labelColor=black)
 ![](https://img.shields.io/badge/<Tools>-<PostgreSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tools>-<PostgreSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Tools>-<PostgreSQL>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
