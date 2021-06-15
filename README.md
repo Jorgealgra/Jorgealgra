@@ -1,6 +1,7 @@
 ### Hi Hola 你好 👋
 
-I'm Jorge from Spain, economist and data sciencist student
+I'm Jorge from Spain, economist and data sciencist student.
+
 I love macroeconomics, financial markets, technology , knowing new ..
 
 I'm currently learning Python ..
