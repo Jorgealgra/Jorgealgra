@@ -1,6 +1,6 @@
 ### Hi Hola 你好 👋
 
-I'm Jorge from Spain, economist and data sciencist 
+I'm Jorge from Spain, economist and data sciencist student
 I love macroeconomics, financial markets, technology , knowing new ..
 
 I'm currently learning Python ..
@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 
 
 ![Jorgealgra´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgealgra&show_icons=true&theme=vision-friendly-dark)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jorgealgra&repo=Jorgealgra&theme=vision-friendly-dark)](https://github.com/Jorgealgra/Jorgealgra)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgealgra&layout=compact&theme=vision-friendly-dark)](https://github.com/Jorgealgra/Jorgealgra)
 
 <!-- Actual text -->
 
