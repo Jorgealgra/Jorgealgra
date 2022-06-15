@@ -12,6 +12,24 @@ My goal is to continue delving into deep learning techniques, such as recurrent 
 As soon as possible I will update my github and my portfolio with some of the most interesting projects that I have realized during the last months.
 
 
+I can work with the following technologies:
+
+      - Python
+      - R
+      - Java
+
+      - SQL DB
+      - Pentaho
+      - Mongo
+      - Neo4j
+      - Cassandra
+
+      - Scikit-learn
+      - Keras
+      - Tensor flow
+
+      - Flourish
+      - Tableau
 <!--
 **Jorgealgra/Jorgealgra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
