@@ -4,7 +4,7 @@ My name is Jorge, I have a degree in Economics and I am currently finishing the 
 
 
 During this master and in a self-taught way I have been training and learning the following technologies, in the same order that I will detail below:
-Fundamentals of networks and architectures,Statistics, relational databases, SQL, Python, object-oriented programming, Java, analytical databases, web scrapping, noSQL databases, data visualization, data mining, machine learning technics and Deep Learning.
+Fundamentals of networks and architectures,Statistics, relational databases, SQL, R, Python, object-oriented programming, Java, analytical databases, web scrapping, noSQL databases, data visualization, data mining, machine learning technics and Deep Learning.
 
 My goal is to continue delving into deep learning techniques, such as recurrent neural networks, used for the prediction and study of time series.
 <!--
