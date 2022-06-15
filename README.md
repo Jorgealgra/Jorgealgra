@@ -1,11 +1,12 @@
 ### Hi Hola 你好 👋
 
-I'm Jorge from Spain, economist and data sciencist student.
+My name is Jorge, I have a degree in Economics and I am currently finishing the official master's degree in data science at the Open University of Catalonia. In order to take this master's degree, I had to take 48 credits of complementary subjects.
 
-I love macroeconomics, financial markets, technology , knowing new ..
 
-I'm currently learning Python ..
+During this master and in a self-taught way I have been training and learning the following technologies, in the same order that I will detail below:
+Fundamentals of networks and architectures,Statistics, relational databases, SQL, Python, object-oriented programming, Java, analytical databases, web scrapping, noSQL databases, data visualization, data mining, machine learning technics and Deep Learning.
 
+My goal is to continue delving into deep learning techniques, such as recurrent neural networks, used for the prediction and study of time series.
 <!--
 **Jorgealgra/Jorgealgra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
