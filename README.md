@@ -7,6 +7,11 @@ During this master and in a self-taught way I have been training and learning th
 Fundamentals of networks and architectures,Statistics, relational databases, SQL, R, Python, object-oriented programming, Java, analytical databases, web scrapping, noSQL databases, data visualization, data mining, machine learning technics and Deep Learning.
 
 My goal is to continue delving into deep learning techniques, such as recurrent neural networks, used for the prediction and study of time series.
+
+
+As soon as possible I will update my github and my portfolio with some of the most interesting projects that I have realized during the last months.
+
+
 <!--
 **Jorgealgra/Jorgealgra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
