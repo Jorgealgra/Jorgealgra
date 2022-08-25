@@ -26,7 +26,7 @@ I can work with the following technologies:
 
       - Scikit-learn
       - Keras
-      - Tensor flow
+      - Tensorflow
 
       - Flourish
       - Tableau
