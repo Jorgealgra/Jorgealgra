@@ -28,8 +28,5 @@ Here are some ideas to get you started:
 
 ![Jorgealgra´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Jorgealgra&show_icons=true&theme=vision-friendly-dark)
 
-<!-- Actual text -->
-
-You can find me on jorgealgra@gmail.com
 
 
